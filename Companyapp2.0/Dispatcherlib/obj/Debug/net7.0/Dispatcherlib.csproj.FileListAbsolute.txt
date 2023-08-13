@@ -1,0 +1,12 @@
+F:\.NET\Managerlib\bin\Debug\net7.0\Dispatcherlib.deps.json
+F:\.NET\Managerlib\bin\Debug\net7.0\Dispatcherlib.dll
+F:\.NET\Managerlib\bin\Debug\net7.0\Dispatcherlib.pdb
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.csproj.AssemblyReference.cache
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.AssemblyInfoInputs.cache
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.AssemblyInfo.cs
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.csproj.CoreCompileInputs.cache
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.dll
+F:\.NET\Managerlib\obj\Debug\net7.0\refint\Dispatcherlib.dll
+F:\.NET\Managerlib\obj\Debug\net7.0\Dispatcherlib.pdb
+F:\.NET\Managerlib\obj\Debug\net7.0\ref\Dispatcherlib.dll

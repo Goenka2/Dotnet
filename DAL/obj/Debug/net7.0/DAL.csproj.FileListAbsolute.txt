@@ -1,0 +1,15 @@
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.dll
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\bin\Debug\net7.0\DAL.pdb
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\bin\Debug\net7.0\BOL.dll
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\bin\Debug\net7.0\BOL.pdb
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.dll
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\DAL.pdb
+F:\.NET\NET-main\.NET-main\Day12\ECommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

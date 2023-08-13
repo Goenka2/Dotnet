@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Dispatcherlib": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Dispatcherlib/1.0.0": {
+        "runtime": {
+          "Dispatcherlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dispatcherlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
